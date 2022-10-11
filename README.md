@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <a href="https://github.com/LucianaChamma">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucianaChamma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaChamma&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaChamma&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ### Linguagens e Ferramentas:
@@ -31,5 +31,12 @@ You can click the Preview link to take a look at your changes.
 <div align="center"> 
   <a href="https://app.slack.com/client/T0NNB6T0R/C03MUM1ENHM/rimeto_profile/U03N6BZ4VQD" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="border-radius:50px;"></a>
   <a href="mailto:lusahd@hotmail.com"_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius:50px;"></a>
+
  	
 </div>
+
+
+![giphy (1)](https://user-images.githubusercontent.com/107868796/195154818-578a76ac-5748-4e89-9876-2e3577b51f23.gif)
+
+
+
