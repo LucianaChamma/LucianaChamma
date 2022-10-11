@@ -25,13 +25,16 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Luciana-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Luciana-GitHub" height="35" width="35" src="https://user-images.githubusercontent.com/104032202/185528210-64bc3515-1ccd-4b07-8da6-15ab74e93c61.png" style="color: #fff;">
   <img align="center" alt="Luciana-Windows" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="color: #fff;">
+ 
   
 ##
 
 <div align="center"> 
   <a href="https://app.slack.com/client/T0NNB6T0R/C03MUM1ENHM/rimeto_profile/U03N6BZ4VQD" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="border-radius:50px;"></a>
   <a href="mailto:lusahd@hotmail.com"_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius:50px;"></a>
-
+ <a href="https://instagram.com/chammaluciana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luciana.sahd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/luciana-sahd-chamma-baptista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  	
 </div>
 
