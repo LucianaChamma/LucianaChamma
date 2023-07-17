@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @LucianaChamma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Oi, eu sou Luciana Chamma!
+💻 Desenvolvedora Front-End, formada pelo Bootcamp da Laboratória Brasil, geração SAP008.
+💞️ Estou em constante desenvolvimento e a procura da minha primeira oportunidade na área tech.
+ Estudante Full Stack pela Campinho Digital.
+ Estudante de Tecnologia de Banco de Dados na Uninter.🌱
+
+
+ 📫 Meu contato: luciana.sahd@gmail.com
 
 <!---
 LucianaChamma/LucianaChamma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
