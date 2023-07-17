@@ -1,11 +1,12 @@
-👋 Oi, eu sou Luciana Chamma!
-💻 Desenvolvedora Front-End, formada pelo Bootcamp da Laboratória Brasil, geração SAP008.
-💞️ Estou em constante desenvolvimento e a procura da minha primeira oportunidade na área tech.
- Estudante Full Stack pela Campinho Digital.
- Estudante de Tecnologia de Banco de Dados na Uninter.🌱
+- 👋 Oi, eu sou Luciana Chamma!
+- 💻 Desenvolvedora Front-End, formada pelo Bootcamp da Laboratória Brasil, geração SAP008.
+- Estou em constante desenvolvimento e a procura da minha primeira oportunidade na área tech. 👀
+-  💞️ Estudante Full Stack pela Campinho Digital
+- Estudante de Tecnologia de Banco de Dados na Uninter.🌱
+- 📫 Meu contato: luciana.sahd@gmail.com
 
 
- 📫 Meu contato: luciana.sahd@gmail.com
+
 
 <!---
 LucianaChamma/LucianaChamma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
   <a href="https://github.com/LucianaChamma">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucianaChamma&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucianaChamma&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/> -->
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaChamma&layout=compact&langs_count=7&theme=jolly&include"/>
 </div>
   
