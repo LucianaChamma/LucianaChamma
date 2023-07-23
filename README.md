@@ -26,7 +26,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Luciana-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Luciana-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Luciana-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Luciana-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+   <img align="center" alt="Luciana-React" height="30" width="40" src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+     <img align="center" alt="Luciana-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Luciana-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Luciana-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Luciana-GitHub" height="35" width="35" src="https://user-images.githubusercontent.com/104032202/185528210-64bc3515-1ccd-4b07-8da6-15ab74e93c61.png" style="color: #fff;">
