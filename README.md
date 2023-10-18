@@ -2,7 +2,7 @@
 - 💻 Desenvolvedora Front-End, formada pelo Bootcamp da Laboratória Brasil, geração SAP008;
 - Estou em constante desenvolvimento e a procura da minha primeira oportunidade na área tech; 👀
 -  💞️ Estudante Full Stack pela Campinho Digital;
-- Estudante de Tecnologia de Banco de Dados na Uninter.🌱
+- Estudante de Tecnologia de Desenvolvimento Mobile na Uninter.🌱
 - 📫 Meu contato: luciana.sahd@gmail.com
 
 
