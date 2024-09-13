@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou Luciana Chamma!
-- 💻 Desenvolvedora Front-End, formada pelo Bootcamp da Laboratória Brasil, geração SAP008;
-- Estou em constante desenvolvimento e a procura da minha primeira oportunidade na área tech; 👀
--  💞️ Estudante Full Stack pela Campinho Digital;
+- 💻 Desenvolvedora Full-Stack, formada pelo Bootcamp da Laboratória Brasil, geração SAP008;
+- Estou em constante desenvolvimento e atualmente estagio na área tech; 👀
+-  💞️ Full Stack pela Campinho Digital;
 - Estudante de Tecnologia de Desenvolvimento Mobile na Uninter.🌱
 - 📫 Meu contato: luciana.sahd@gmail.com
 
